@@ -1,0 +1,45 @@
+
+#outer{
+height:1600px;
+width:1300px;
+border:1px solid;
+margin:0px auto;
+}
+body{
+background-color:lightblue;
+}
+#top{
+height:200px;
+width:1300px;
+background-color:white;
+}
+#menu{
+height:80px;
+width:1300px;
+background-color:white;
+border-radius:50px 50px 50px 50px;
+}
+#menu ul{
+list-style-type:none;
+}
+#menu ul li{
+display:inline-block;
+width:100px;
+//border:1px solid;
+padding:10px;
+margin-top:10px;
+}
+#menu ul li a{
+text-decoration:none;
+color:black;
+}
+#top1{
+height:200px;
+width:350px;
+border:1px solid;
+}
+#top2{
+height:200px;
+width:550px;
+background-color:yellow;
+}
